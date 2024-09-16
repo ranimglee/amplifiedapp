@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "reactamplifiedranim",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-reactamplifiedranim-dev-5e7b7-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/0fdfabbdf1a5c535dc296999c3ac482f784fb498"
+}
